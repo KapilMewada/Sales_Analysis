@@ -76,6 +76,7 @@ Contains product details.
 - Use machine learning to predict sales trends.
 
 ---
-### ✍️ Author: [Your Name]  
-📅 *Date: [Project Date]*
+### ✍️ Author: Kapil Mewada
+📅 *Date: 02.14.2025
+
 
